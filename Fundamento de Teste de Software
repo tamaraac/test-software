@@ -56,6 +56,37 @@ teste funcional
 teste não funcional
 relacionado a mudanças
 
+Qual a diferença de testes estatico e dinamico?
+
+Estatico sistema não esta em execução
+dinamico sistema esta sendo executado
+
+Quais os tipos de revisões
+
+informal
+tecnica
+acompanhamento
+inspensão
+
+quais as tecnicas caixa branca?
+
+cobertura de instrução e cobertura de decisão
+
+quais as tecnicas caixa preta?
+
+partição de equivalencia, analise de valor limite, tabela de decisão, testes de casos de uso , teste de transição de estado , teste exploratorio
+
+o que é teste independente?
+
+
+Qual é a definição de risco?
+
+Possibilidade da cocorrencia futura de evento com consequencias negativas.
+
+Risco = probabilidade X impacto
+
+
+
 
 Teste de regressão
 
