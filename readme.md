@@ -39,6 +39,6 @@ Tecnologias novas<br>
 etc..<br>
 
 ## 7 Principios do Teste 
-1.O teste mostra a presença de defeitos e não a sua ausência
-1.Testes exaustivos são impossiveis
-1.O teste inicial economiza tempo e dinheiro
+1. O teste mostra a presença de defeitos e não a sua ausência
+1. Testes exaustivos são impossiveis
+1. O teste inicial economiza tempo e dinheiro
