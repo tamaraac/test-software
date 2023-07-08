@@ -19,13 +19,23 @@ Focada na adesão a processos adequados
 Parte da garantia de qualidade
 <br>
 
-**Processos de Teste**
+**Processos de Teste**<br>
 **Não existe um processo de teste universal** <br>
 O processo ideal depende de muitos fatores<br>
 * Metodologias
 * Riscos 
 * Regras de négocios
 * Normas e politicas internas
+<br>
+
+**Principais atividades**<br>
+* Planejamento
+* Monitoramento e controle
+* Análise
+* Modelagem
+* Implementação
+* Execução e conclusão
+<br>
 
 **Teste X Depuração**<br>
 TESTE mostra as falhas causadas por defeitos<br>
