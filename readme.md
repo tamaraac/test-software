@@ -12,8 +12,8 @@ Ganhar confiança no nivel de qualidade<br>
 Prover informações para tomada de decisão
 <br></br>
 
-**Garantia da Qualidade**
+**Garantia da Qualidade**:<br>
 Focada na adesão a processos adequados
 
-**Teste de software**
+**Teste de software**:<br>
 Parte da garantia de qualidade
