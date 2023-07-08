@@ -28,4 +28,5 @@ ERRO: cometido por um humano ao pensar na solução de um problema
 <br>DEFEITO: ao codificar o que pensando de forma errada, um defeito é inserido
 <br>FALHA: Manifestação do Defeito, ao executar um trecho com defeito, o sistema falha<br>
 <br>
+
 ## O que causa um erro?
