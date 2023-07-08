@@ -42,3 +42,7 @@ etc..<br>
 1. O teste mostra a presença de defeitos e não a sua ausência
 1. Testes exaustivos são impossiveis
 1. O teste inicial economiza tempo e dinheiro
+1. Defeitos se agrupam
+1. Cuidado com o paradoxido do pesticida
+1. O teste depende do contexto
+1. Ausência de erros é uma ilusão
