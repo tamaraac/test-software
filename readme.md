@@ -9,4 +9,11 @@ Atividade de software são organizadas e executadas de forma diferente de acordo
 Encontrar Defeitos<br>
 Prevenir defeitos<br>
 Ganhar confiança no nivel de qualidade<br>
-Prover informações para tomada de decições
+Prover informações para tomada de decisão
+<br></br>
+
+**Garantia da Qualidade**
+Focada na adesão a processos adequados
+
+**Teste de software**
+Parte da garantia de qualidade
