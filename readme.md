@@ -65,3 +65,17 @@ etc..<br>
 1. O teste depende do contexto
 1. Ausência de erros é uma ilusão
 <br>
+
+**Psicologia do Teste**<br>
+A identificação de defeitos pode ser vista como uma critica, algumas pessoas podem perceber o teste como uma atividade destrutiva. Informações sobre os defeitos e as falhas devem ser comunicados de maneira construtiva.<br>
+Testadores e desenvolvedores precisam ter boas habilidades interpessoais para se comunicarem<br>
+Comece comunicação em vez de batalhas<br>
+Enfatize os beneficios do teste<br>
+Comunique os resultados de forma neutra<br>
+Tente entender como a outra pessoa se sente<br>
+Confirme se a outra pessoa entendeu o que foi dito.<br>
+<br>
+
+**Testadores e desenvolvedores possuem mentalidades diferentes**
+
+:heart:
