@@ -19,6 +19,14 @@ Focada na adesão a processos adequados
 Parte da garantia de qualidade
 <br>
 
+**Processos de Teste**
+**Não existe um processo de teste universal** <br>
+O processo ideal depende de muitos fatores<br>
+* Metodologias
+* Riscos 
+* Regras de négocios
+* Normas e politicas internas
+
 **Teste X Depuração**<br>
 TESTE mostra as falhas causadas por defeitos<br>
 Depuração localiza e analisa e corrige esses defeitos <br>
@@ -46,3 +54,4 @@ etc..<br>
 1. Cuidado com o paradoxido do pesticida
 1. O teste depende do contexto
 1. Ausência de erros é uma ilusão
+<br>
