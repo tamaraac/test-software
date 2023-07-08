@@ -21,7 +21,7 @@ Parte da garantia de qualidade
 
 **Teste X Depuração**<br>
 TESTE mostra as falhas causadas por defeitos<br>
-DEpuração localiza e analisa e corrige esses defeitos </br>
+DEpuração localiza e analisa e corrige esses defeitos <br>
 **Erro(engano)> Defeito(bug)> falha**:<br>
 ERRO: cometido por um humano ao pensar na solução de um problema
 <br>DEFEITO: ao codificar o que pensando de forma errada, um defeito é inserido
